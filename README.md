@@ -13,13 +13,13 @@ In this directory, there are 2 files that can be executed. You can run the packa
 
 ### Running the .jar file through command line:
 
-In a command line, after navigating to the correct directory, type the following commands:
+In a command line, after navigating to the correct directory, type the following commands:\n
 java -jar MazeSolutionFinder.jar
 
 ### Running the .java files through command line
 
-In a command line, after navigating to the correct directory, type the following commands:
-javac *.java
+In a command line, after navigating to the correct directory, type the following commands:\n
+javac *.java\n
 java MazeSolutionFinder
 
 ## Using the Program
